@@ -1,0 +1,4 @@
+Title: Campus Facility Management System<br>
+Description: A comprehensive console-based C++ application designed to streamline the scheduling and administration of university resources. It empowers multiple user roles (Admins, Faculty, and Students) to securely authenticate, manage facility records, request bookings, and automatically generate billing invoices.<br>
+Technical Highlights: Implements advanced Object-Oriented Programming (OOP) architectures—including abstract classes, inheritance, and composition. Features a custom role-based authentication system, time-overlap prevention logic, and robust C++ file handling (fstream) for persistent data storage across multiple files without relying on external databases.<br>
+How to run: To compile the multi-file architecture, run g++ *.cpp -o campus_system in your terminal, and then execute the resulting file (e.g., ./campus_system or campus_system.exe)
