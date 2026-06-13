@@ -1,4 +1,4 @@
-#include "CampusSystem.h"
+#include "../include/CampusSystem.h"
 
 // Declaration to let main know this function exists in the .cpp file
 void all(); 
